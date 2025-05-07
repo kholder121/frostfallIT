@@ -6,13 +6,9 @@ layout: home
 
 This is my fresh new site.
 
-Here’s our logo atop the page:
 
 ![Frostfall IT logo][logo]
 
-And here’s a mountainscape hero image:
-
-![Hero mountains][hero]
 
 <!-- …more content… -->
 
