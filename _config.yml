@@ -1,0 +1,18 @@
+# _config.yml
+title:  "Frostfall IT"
+email:  itfrostfall@gmail.com
+author: Kaleb Holder
+description: >- # this means “fold newlines to spaces”
+  IT support company that provides remote support, consultation, project support, and security needs.
+
+# Load the remote theme from GitHub
+remote_theme: mmistakes/minimal-mistakes@^4.0
+
+# Tell GitHub Pages which plugins to allow
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Optional: set your site’s URL
+url: "https://github.com/kholder121/frostfallIT#"
