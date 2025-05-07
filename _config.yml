@@ -5,6 +5,9 @@ author: Kaleb Holder
 description: >- # this means “fold newlines to spaces”
   IT support company that provides remote support, consultation, project support, and security needs.
 
+url: "https://github.com/kholder121/frostfallIT.git"
+
+
 # Load the remote theme from GitHub
 remote_theme: mmistakes/minimal-mistakes@^4.0
 
@@ -16,3 +19,24 @@ plugins:
 
 # Optional: set your site’s URL
 url: "https://github.com/kholder121/frostfallIT#"
+
+# Navigation
+header:
+  navigation:
+    - title: Home
+    - url: /
+    - title: About
+    - url: /about/
+    - title: Blog
+    - url: /journal/
+    - title: Contact
+    - url: /contact
+
+#Social Links
+social:
+  github: kholder121
+
+#Optional: change colors
+colors:
+  primary: "#0D47A1"
+  accent:  "#FFC107"
