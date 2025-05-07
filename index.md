@@ -3,9 +3,9 @@ layout: home        # ← Minimal‑Mistakes “home” layout
 title:  "Welcome!"
 ---
   
-# Hello, Norse IT world!
+# Welcome to Frostfall IT.
 
-Your intro text here…
+Frostfall IT is dedicated to providing great customer service that is shown by our work ethic and determination to resolve your IT needs.
 
 
 ![Frostfall IT logo][logo]
@@ -15,4 +15,4 @@ Your intro text here…
 
 
 <!-- Reference definitions go at the end of the same file -->
-[logo]:   /assets/img/FrostfallIT_logo.png
+[logo]:   /frostfallIT/assets/img/FrostfallIT_logo.png
