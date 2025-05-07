@@ -1,10 +1,11 @@
 ---
-layout: home
+layout: home        # ← Minimal‑Mistakes “home” layout
+title:  "Welcome!"
 ---
+  
+# Hello, Norse IT world!
 
-# Welcome!
-
-This is my fresh new site.
+Your intro text here…
 
 
 ![Frostfall IT logo][logo]
