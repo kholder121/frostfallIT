@@ -9,8 +9,8 @@ url: "https://github.com/kholder121/frostfallIT.git"
 
 
 # Load the remote theme from GitHub
-#remote_theme: mmistakes/minimal-mistakes@^4.0
-remote_theme: "mmistakes/minimal-mistakes@4.27.1"
+remote_theme: mmistakes/minimal-mistakes@^4.0
+#remote_theme: "mmistakes/minimal-mistakes@4.27.1"
 # Tell GitHub Pages which plugins to allow
 plugins:
   - jekyll-remote-theme
